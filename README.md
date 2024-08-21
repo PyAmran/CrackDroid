@@ -9,18 +9,21 @@ This tool provides a range of techniques and weapons for android exploitation. I
 # Android 
 This module uses the Metasploit framework built into Kali Linux to create and Android apk that will allow a back door into the users phone. 
 # Others
-The Service is not available. It will available soon..
+The Service is not available. It will be availabled soon..
 
 --------------------------------------------------------------
 
-> Installation
-(run in root account)
- $ cd CrackDroid
- $ chmod +x install.sh
- $ bash install.sh
-( or )
-(In One Step in root terminal)
-$ cd CrackDroid; chmod +x install.sh; bash install.sh
+> Installation 
+
+ (run in root account)
+
+     $ cd CrackDroid; chmod +x install.sh; bash install.sh
+     
+     
+> uninstaller
+
+     $ chmod +x uninstaller.sh; bash uninstaller.sh
+
 
 -----------------------------------------------------------------
 
